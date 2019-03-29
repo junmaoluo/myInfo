@@ -4,9 +4,7 @@ class Hunter{
 	private String name = "Keith";
 	private String phoneNumber = "18620720795";
 	private String brief = "我是一个会编程的猎头，欢迎来骚扰";
-	
-	private Candidate can;
-	
+		
 	public Hunter() {
 		
 	}
@@ -44,9 +42,6 @@ class Hunter{
 	public void setCan(Candidate can) {
 		this.can = can;
 	}
-
-	public void feedBack() {
-		System.out.println("谢谢你的信任，" + can.getName() + "。");
-		System.out.println("我已经收到你的简历，我会帮你推荐相关的职位的。");
-	}
 }
+
+[image](https://github.com/junmaoluo/myInfo/blob/master/2%E7%8C%8E%E5%A4%B4%E8%B4%A6%E5%8F%B7.jpg)
