@@ -1,5 +1,5 @@
 # myInfo
-myinfomation
+![image](https://github.com/junmaoluo/myInfo/2猎头账号.jpg)
 class Hunter{
 	private String name = "Keith";
 	private String phoneNumber = "18620720795";
@@ -43,5 +43,3 @@ class Hunter{
 		this.can = can;
 	}
 }
-
-[image](https://github.com/junmaoluo/myInfo/blob/master/2%E7%8C%8E%E5%A4%B4%E8%B4%A6%E5%8F%B7.jpg)
