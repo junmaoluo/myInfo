@@ -1,5 +1,5 @@
 # myInfo
-![image](https://github.com/junmaoluo/myInfo/2猎头账号.jpg)
+![image](https://github.com/junmaoluo/myInfo/blob/master/2猎头账号.jpg)
 class Hunter{
 	private String name = "Keith";
 	private String phoneNumber = "18620720795";
